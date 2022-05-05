@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>background.jpg</file>
+        <file>message.jpg</file>
+        <file>modify.jpg</file>
+        <file>sea.jpg</file>
+        <file>shangluo.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,14 @@
+release/main.o
+release/loginwindow.o
+release/modifywindow.o
+release/registerwindow.o
+release/resultwindow.o
+release/setwindow.o
+release/votepage.o
+release/qrc_res.o
+release/moc_loginwindow.o
+release/moc_modifywindow.o
+release/moc_registerwindow.o
+release/moc_resultwindow.o
+release/moc_setwindow.o
+release/moc_votepage.o

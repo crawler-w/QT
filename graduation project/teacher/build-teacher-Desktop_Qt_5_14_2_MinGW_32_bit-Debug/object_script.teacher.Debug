@@ -1,0 +1,16 @@
+debug/main.o
+debug/loginwindow.o
+debug/modifywindow.o
+debug/registerwindow.o
+debug/resultwindow.o
+debug/setwindow.o
+debug/sms.o
+debug/votepage.o
+debug/qrc_res.o
+debug/moc_loginwindow.o
+debug/moc_modifywindow.o
+debug/moc_registerwindow.o
+debug/moc_resultwindow.o
+debug/moc_setwindow.o
+debug/moc_sms.o
+debug/moc_votepage.o
